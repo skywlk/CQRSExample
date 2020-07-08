@@ -1,0 +1,2 @@
+C:\Users\Vlashkhia\Desktop\Presentation\examples\cqrs\modern-software-architecture-domain-models-cqrs-event-sourcing\5-exercise-files\Regular\Module5.Regular.ReadStack\obj\Debug\Module5.Regular.ReadStack.csprojAssemblyReference.cache
+C:\Users\Vlashkhia\Desktop\Presentation\examples\cqrs\modern-software-architecture-domain-models-cqrs-event-sourcing\5-exercise-files\Regular\Module5.Regular.ReadStack\obj\Debug\Module5.Regular.ReadStack.csproj.CoreCompileInputs.cache

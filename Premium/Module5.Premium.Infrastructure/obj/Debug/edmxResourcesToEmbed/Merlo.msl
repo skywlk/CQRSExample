@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="expoware_MerloModelStoreContainer" CdmEntityContainer="MerloEntities">
+    <EntitySetMapping Name="MatchEvents">
+      <EntityTypeMapping TypeName="expoware_MerloModel.MatchEvent">
+        <MappingFragment StoreEntitySet="MatchEvents">
+          <ScalarProperty Name="PlayerId" ColumnName="PlayerId" />
+          <ScalarProperty Name="Team2" ColumnName="Team2" />
+          <ScalarProperty Name="Team1" ColumnName="Team1" />
+          <ScalarProperty Name="MatchId" ColumnName="MatchId" />
+          <ScalarProperty Name="TimeStamp" ColumnName="TimeStamp" />
+          <ScalarProperty Name="TeamId" ColumnName="TeamId" />
+          <ScalarProperty Name="Action" ColumnName="Action" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Matches">
+      <EntityTypeMapping TypeName="expoware_MerloModel.Match">
+        <MappingFragment StoreEntitySet="Matches">
+          <ScalarProperty Name="Timeouts2" ColumnName="Timeouts2" />
+          <ScalarProperty Name="Timeouts1" ColumnName="Timeouts1" />
+          <ScalarProperty Name="Period" ColumnName="Period" />
+          <ScalarProperty Name="Score2" ColumnName="Score2" />
+          <ScalarProperty Name="Score1" ColumnName="Score1" />
+          <ScalarProperty Name="State" ColumnName="State" />
+          <ScalarProperty Name="Team2" ColumnName="Team2" />
+          <ScalarProperty Name="Team1" ColumnName="Team1" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

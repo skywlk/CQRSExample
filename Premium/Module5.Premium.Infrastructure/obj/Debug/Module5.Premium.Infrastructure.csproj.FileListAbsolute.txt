@@ -1,0 +1,2 @@
+C:\Users\Vlashkhia\Desktop\Presentation\examples\cqrs\modern-software-architecture-domain-models-cqrs-event-sourcing\5-exercise-files\Premium\Module5.Premium.Infrastructure\obj\Debug\Module5.Premium.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Vlashkhia\Desktop\Presentation\examples\cqrs\modern-software-architecture-domain-models-cqrs-event-sourcing\5-exercise-files\Premium\Module5.Premium.Infrastructure\obj\Debug\Module5.Premium.Infrastructure.csproj.CoreCompileInputs.cache
