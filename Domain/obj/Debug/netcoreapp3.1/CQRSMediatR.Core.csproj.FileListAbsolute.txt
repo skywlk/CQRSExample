@@ -1,0 +1,6 @@
+C:\Users\vlashkhia\Desktop\CQRSExamples\CQRSExample\Domain\bin\Debug\netcoreapp3.1\CQRSMediatR.Core.deps.json
+C:\Users\vlashkhia\Desktop\CQRSExamples\CQRSExample\Domain\bin\Debug\netcoreapp3.1\CQRSMediatR.Core.dll
+C:\Users\vlashkhia\Desktop\CQRSExamples\CQRSExample\Domain\bin\Debug\netcoreapp3.1\CQRSMediatR.Core.pdb
+C:\Users\vlashkhia\Desktop\CQRSExamples\CQRSExample\Domain\obj\Debug\netcoreapp3.1\CQRSMediatR.Core.csproj.CoreCompileInputs.cache
+C:\Users\vlashkhia\Desktop\CQRSExamples\CQRSExample\Domain\obj\Debug\netcoreapp3.1\CQRSMediatR.Core.dll
+C:\Users\vlashkhia\Desktop\CQRSExamples\CQRSExample\Domain\obj\Debug\netcoreapp3.1\CQRSMediatR.Core.pdb

@@ -1,0 +1,14 @@
+C:\Users\vlashkhia\Desktop\CQRSExamples\CQRSExample\Domain\bin\Debug\netcoreapp3.0\CQRSMediatR.Core.deps.json
+C:\Users\vlashkhia\Desktop\CQRSExamples\CQRSExample\Domain\bin\Debug\netcoreapp3.0\CQRSMediatR.Core.dll
+C:\Users\vlashkhia\Desktop\CQRSExamples\CQRSExample\Domain\bin\Debug\netcoreapp3.0\CQRSMediatR.Core.pdb
+C:\Users\vlashkhia\Desktop\CQRSExamples\CQRSExample\Domain\obj\Debug\netcoreapp3.0\CQRSMediatR.Core.csproj.CoreCompileInputs.cache
+C:\Users\vlashkhia\Desktop\CQRSExamples\CQRSExample\Domain\obj\Debug\netcoreapp3.0\CQRSMediatR.Core.dll
+C:\Users\vlashkhia\Desktop\CQRSExamples\CQRSExample\Domain\obj\Debug\netcoreapp3.0\CQRSMediatR.Core.pdb
+C:\Users\vlashkhia\Desktop\CQRSExamples\CQRSExample\Domain\obj\Debug\netcoreapp3.0\CQRSMediatR.Core.csprojAssemblyReference.cache
+C:\Users\vlashkhia\Desktop\CQRSExamples\CQRSMediatR\Domain\bin\Debug\netcoreapp3.0\CQRSMediatR.Core.deps.json
+C:\Users\vlashkhia\Desktop\CQRSExamples\CQRSMediatR\Domain\bin\Debug\netcoreapp3.0\CQRSMediatR.Core.dll
+C:\Users\vlashkhia\Desktop\CQRSExamples\CQRSMediatR\Domain\bin\Debug\netcoreapp3.0\CQRSMediatR.Core.pdb
+C:\Users\vlashkhia\Desktop\CQRSExamples\CQRSMediatR\Domain\obj\Debug\netcoreapp3.0\CQRSMediatR.Core.csproj.CoreCompileInputs.cache
+C:\Users\vlashkhia\Desktop\CQRSExamples\CQRSMediatR\Domain\obj\Debug\netcoreapp3.0\CQRSMediatR.Core.dll
+C:\Users\vlashkhia\Desktop\CQRSExamples\CQRSMediatR\Domain\obj\Debug\netcoreapp3.0\CQRSMediatR.Core.pdb
+C:\Users\vlashkhia\Desktop\CQRSExamples\CQRSMediatR\Domain\obj\Debug\netcoreapp3.0\CQRSMediatR.Core.csprojAssemblyReference.cache
